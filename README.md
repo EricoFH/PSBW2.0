@@ -13,7 +13,7 @@ Beberapa teknologi yang digunakan dalam project ini:
 * HTML untuk membuat struktur halaman
 * CSS untuk mengatur tampilan dan layout
 * Bootstrap untuk membantu membuat beberapa bagian tampilan
-* JavaScript untuk fitur interaksi, pencarian, tombol toggle, form tambah pada website
+* JavaScript untuk fitur interaksi, pencarian, tombol toggle, merubah tampilan tabel, dan form tambah pada website
 * GitHub Pages untuk menjalankan website secara online, meskipun ini opsional
 
 ## Isi Project
