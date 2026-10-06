@@ -1,0 +1,155 @@
+.bg{
+    color: bisque;
+}
+
+h5 {
+    padding: 20px;
+}
+
+.padding1 {
+    padding-top: 7%;
+}
+
+.padding2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.shadow2 {
+    color: white;
+    text-shadow: 1.5px 1.5px 0px black;
+}
+
+.shadow3 {
+    color: white;
+    text-shadow: 3px 3px 0px black;
+}
+
+.shadow4 {
+    color: rgb(0, 0, 0);
+    text-shadow: 0.5px 0.5px 0px rgb(225, 255, 0);
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://images.unsplash.com/photo-1731640275202-28a40f7edd04?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    min-height: 100vh;
+
+}
+
+.tabel {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabel th,
+.tabel td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tabel th {
+    background-color: rgb(74, 74, 90);
+    color: white;
+}
+
+.tabel td {
+    background-color: white;
+}
+
+.padtab{
+    padding-left: 10%;
+}
+
+.tabel-gap {
+    display: flex;
+    gap: 30%;
+    align-items: flex-start;
+}
+
+.tabel-box {
+    flex: 1;
+}
+
+.section {
+    padding: 50px 0;
+}
+
+
+.section-title {
+    margin-bottom: 40px;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+
+.card:hover {
+    transform: translatey(-20px);
+}
+
+.product-image {
+    height: 200px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    background-color: #6c757d;
+
+    color: white;
+
+    font-size: 24px;
+}
+
+.footer {
+    padding: 30px 0;
+    background-color: #212529;
+    color: white;
+    margin: 0px;
+}
+
+@media (max-width: 768px) {
+
+    .hero {
+        padding: 60px 0;
+    }
+
+    .hero-box {
+        margin-top: 30px;
+    }
+
+}
+
+
+.hidden {
+  display: none;
+}
+
+.invalid {
+  border: 2px solid red;
+}
+
+.error-text {
+  color: white;
+  background-color: #dc3545;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.btn.btn-aktif {
+  background-color: #198754;
+  border-color: #198754;
+  color: white;
+}
