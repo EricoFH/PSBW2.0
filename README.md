@@ -33,7 +33,7 @@ Nama dan isi folder dapat berubah sesuai dengan perkembangan project.
 Website ini dipublikasikan menggunakan GitHub Pages.
 
  **Link:**
-
+https://ericofh.github.io/PSBW2.0/
 
 ## Cara Menjalankan
 
